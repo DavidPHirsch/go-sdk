@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.7.1](https://github.com/open-feature/go-sdk/compare/v1.7.0...v1.7.1) (2023-09-07)
+
+
+### 🐛 Bug Fixes
+
+* **deps:** update module github.com/cucumber/godog to v0.13.0 ([#210](https://github.com/open-feature/go-sdk/issues/210)) ([33c5f2f](https://github.com/open-feature/go-sdk/commit/33c5f2f5de478ee7123ccf0ffe594fcaf4d2555b))
+
+
+### 🧹 Chore
+
+* fix golangci-lint version ([#216](https://github.com/open-feature/go-sdk/issues/216)) ([e79382a](https://github.com/open-feature/go-sdk/commit/e79382a748fb914e0fa94a61d292e509094cdc46))
+* sort imports of go files ([#214](https://github.com/open-feature/go-sdk/issues/214)) ([a98950d](https://github.com/open-feature/go-sdk/commit/a98950d3f51a1e3ff4660a8ffeb5dcee50876304))
+* update comments for named provider related function ([#213](https://github.com/open-feature/go-sdk/issues/213)) ([2e670b2](https://github.com/open-feature/go-sdk/commit/2e670b27391e6a1d5b77ad78a18db23e41c43a50))
+
 ## [1.7.0](https://github.com/open-feature/go-sdk/compare/v1.6.0...v1.7.0) (2023-08-11)
 
 
